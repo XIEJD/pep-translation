@@ -1,8 +1,6 @@
-# PEP 8 — Python 代码风格指南
+# PEP 8  Python 代码风格指南
 
->* auther : xjd
->* tags : python, coding-style
->* date : 2017-09-24
+
 
 ### 前言
 
